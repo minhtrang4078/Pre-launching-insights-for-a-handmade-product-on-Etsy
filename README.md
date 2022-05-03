@@ -1,4 +1,4 @@
-![My drawing](https://github.com/minhtrang4078/Pre-launching-insights-for-a-handmade-product-on-Etsy/blob/main/My%20drawing_location_Vietnam.jpg)
+![My drawing](https://github.com/minhtrang4078/Pre-launching-insights-for-a-handmade-product-on-Etsy/blob/main/My%20drawing_location_Vietnam.jpg|width=100px])
 
 # Context & purposes:
 - Quick market reseach for (house/architecture) painting products for an online shop (entity in Germany).
