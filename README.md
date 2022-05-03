@@ -5,7 +5,7 @@
 - Product characteristics: handmade, maybe digital or painting on paper, based on real life house photo
 - Finding the trends and nessesary information focus on products and prices on Etsy, the biggest hand-made market available now.
 
-# Questions¶
+# Questions
 - In categories of art/painting, what type of painting is popular?
 - What tags are most searched?
 - How fast a store can be (revenues from released date of the product)?
