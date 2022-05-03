@@ -2,7 +2,7 @@
 
 # Context & purposes:
 - Quick market reseach for (house/architecture) painting products for an online shop (entity in Germany).
-- Product characteristics: handmade, maybe digital or painting on paper, based on real life house photo
+- Product characteristics: handmade, maybe digital or painting on paper, based on real life house/architecture photo
 - Finding the trends and nessesary information focus on products and prices on Etsy, the biggest hand-made market available now.
 
 # Questions
