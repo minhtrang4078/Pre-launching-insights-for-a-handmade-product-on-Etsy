@@ -1,4 +1,4 @@
-![My drawing](https://github.com/minhtrang4078/Personal-Loan-Status-Prediction-App/blob/main/images/app_1st_look.png)
+![My drawing](https://github.com/minhtrang4078/Pre-launching-insights-for-a-handmade-product-on-Etsy/blob/main/My%20drawing_location_Vietnam.jpg)
 
 # Context & purposes:
 - Quick market reseach for (house/architecture) painting products for an online shop (entity in Germany).
