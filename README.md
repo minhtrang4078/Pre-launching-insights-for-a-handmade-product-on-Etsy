@@ -1,7 +1,5 @@
 # MARKET INSIGHTS FOR AN ETSY STORE (prelaunching steps)
 
-<img src="https://github.com/minhtrang4078/Pre-launching-insights-for-a-handmade-product-on-Etsy/blob/main/My%20drawing_location_Vietnam.jpg" width="500">
-
 ## Context & purposes:
 - Quick market reseach for (house/architecture) painting products for an online shop (entity in Germany).
 - Product characteristics: handmade, maybe digital or painting on paper, based on real life house/architecture photo
